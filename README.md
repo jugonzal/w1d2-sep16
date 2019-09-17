@@ -3,8 +3,6 @@ Solving the chronal calibration problem... aka adding things up
 
 ## How ?
 
-- find a pattern ???
-- do we have sufficient readings ??
 - collect all our data (input)
 - assume a starting point
 - iterate over data
